@@ -1,5 +1,0 @@
-#example to apply role, replace as needed
----
-- hosts: all
-  roles:
-    - harden
